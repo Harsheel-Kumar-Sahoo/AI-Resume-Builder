@@ -11,3 +11,4 @@ An AI-powered web app that generates professional resumes in seconds. Just enter
 > ⚠️ Text in `[square brackets]` is AI-generated placeholder — replace it with your real info before use.
 
 🔗 **Live Demo:** [resumebuilder-ai-nine.vercel.app](https://resumebuilder-ai-nine.vercel.app/)
+
